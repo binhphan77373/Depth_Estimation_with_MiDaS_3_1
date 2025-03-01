@@ -1,5 +1,3 @@
-Based on the gathered information, here is a draft for your README:
-
 # Depth Estimation with MiDaS 3.1
 
 This repository provides an implementation of depth estimation using MiDaS 3.1 models.
